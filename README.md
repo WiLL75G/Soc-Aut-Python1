@@ -6,27 +6,9 @@ Welcome to **Soc-Aut-Python1**, a step-by-step, beginner-friendly 10-day journey
 
 Each day has its own folder with a starter Python file:
 
-Soc-Aut-Python1/
-├── day1/
-│ └── python.py
-├── day2/
-│ └── python.py
-├── day3/
-│ └── python.py
-├── day4/
-│ └── python.py
-├── day5/
-│ └── python.py
-├── day6/
-│ └── python.py
-├── day7/
-│ └── python.py
-├── day8/
-│ └── python.py
-├── day9/
-│ └── python.py
-└── day10/
-└── python.py
+
+Soc-Aut-Python1/day1-10/python.py
+
 ---
 
 ## 📝 Lessons Overview
