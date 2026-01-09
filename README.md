@@ -1,6 +1,6 @@
 # Soc-Aut-Python1: 10-Day Beginner-Friendly Python Roadmap
 
-Welcome to **Soc-Aut-Python1**, a step-by-step, beginner-friendly 10-day journey to learn Python from scratch. This project is practical and hands-on. Each lesson builds on the previous one and includes exercises you can run directly.
+Welcome to **Soc-Aut-Python1**, a step-by-step, beginner-friendly journey to learn Python from scratch. This project is practical and hands-on. Each lesson builds on the previous one and includes exercises you can run directly.
 
 ## 📂 Project Structure
 
